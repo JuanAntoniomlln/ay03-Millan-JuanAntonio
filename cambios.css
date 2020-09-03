@@ -1,0 +1,48 @@
+#color{
+    background: purple;
+    font-style: italic;
+    font outline: ;
+
+}
+.muro{
+    background: skyblue;
+    font: normal;
+    font-style: normal;
+}
+.verde{
+    background: forestgreen;
+    font-size: 20px;
+    font: large;
+    
+}
+.naranjo{
+    background: orangered;
+    font-size: 20px;
+    font: large;
+    
+}
+.piel{
+    background: pink;
+    font-size: 20px;
+    font: large;
+
+}
+.letras{
+    background: powderblue;
+    font-style: italic;
+    font:lighter
+}
+.letras2{
+    background: rebeccapurple;
+    font-style: italic;
+    font:lighter
+}
+.letras3{
+    background: beige;
+    font-style: italic;
+    font:lighter
+}
+.margen{
+    padding: 30px
+
+}
